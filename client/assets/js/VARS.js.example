@@ -1,9 +1,0 @@
-window.AFN_VARS = {
-  api_uri:"",
-  google_client_id:"",
-  drive_app_id:"",
-  dropbox_key:"",
-  stripe_key:"",
-  collab_uri:"",
-};
-

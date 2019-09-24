@@ -1,4 +1,0 @@
-var AFN_VARS = {
-  api_uri:"http://semaan.ca:8080"
-};
-
